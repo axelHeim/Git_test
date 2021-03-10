@@ -8,5 +8,7 @@ int main{
 
     y = 5;
     x = 4;
-    
+
+
+    double z = x*y;   
 }
