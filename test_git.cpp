@@ -5,6 +5,7 @@ int main{
 
     double x;
     double y;
+    double w;
 
     y = 5;
     x = 4;
