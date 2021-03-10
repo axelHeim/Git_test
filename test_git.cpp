@@ -13,4 +13,7 @@ int main{
     double z = x*y;
 
     z += 5;   
+
+    x = y;
+    y = z;
 }
