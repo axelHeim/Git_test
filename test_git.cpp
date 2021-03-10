@@ -7,6 +7,8 @@ int main{
     double y;
     double w;
 
+
+    w = 55;
     y = 5;
     x = 4;
 
